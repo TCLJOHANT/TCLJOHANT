@@ -1,6 +1,5 @@
-# Bienvenido a mi portada, me llamo Johan Andre Chate 
-### Aprendiz & y futuro Desarrollador web 
-# Título del proyecto
+# Bienvenido, me llamo Johan Andre Chate 👋
+### Aprendiz & y futuro Desarrollador de software 
 
 Soy Estudiante de software profesional desde el 2022. Aun me encuentro en la etapa de incubación (junior), pero cada día mejoro un 1% en mis habilidades en este "juego" del desarrollo. Lo llamo un juego porque tiene sus niveles y dificultades, así como yo tengo mis habilidades o puntos de poder para superar esos niveles.
 
