@@ -1,16 +1,32 @@
-### Hi there 👋
+# Soy Developer Johan Andre Chate (TCL JOHAN +)
 
-<!--
-**TCLJOHANT/TCLJOHANT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aun me encuentro en la etapa de incubación (junior) pero cada dia se mejora un 1% en la habilidad ha esto lo llamo un juego  
 
-Here are some ideas to get you started:
+## Características
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Característica 1
+- Característica 2
+- Característica 3
+
+## Instalación
+
+Describe cómo instalar el proyecto y cualquier requisito previo.
+
+## Uso
+
+Proporciona ejemplos de cómo utilizar el proyecto.
+
+## Contribución
+
+Explica cómo los colaboradores pueden contribuir al proyecto.
+
+## Licencia
+
+Indica la licencia bajo la cual se distribuye el proyecto.
+
+## Contacto
+
+Proporciona información de contacto.
+
+![Imagen de ejemplo](ruta/a/la/imagen.png)
+
