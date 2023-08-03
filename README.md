@@ -24,6 +24,13 @@ A medida que avanzo en mi carrera como desarrollador de software, estoy desarrol
 - Bases de datos: SQL, MongoDB.
 - Control de versiones: Git.
 - Resolución de problemas y pensamiento lógico.
+  Tecnologías:
+
+Apple Swift Xcode
+Android Kotlin Android_Studio
+Python Java JavaScript AWS Google_Cloud
+Firebase Node.JS MongoDB MySQL
+Y alguna más... 
 
 ## Contribución
 
