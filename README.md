@@ -15,8 +15,13 @@
 <br>
 
 - A passionate Self-taught  developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 
+-
+-
+-
+-
+-
+-
 
 <br><br>
 
