@@ -17,7 +17,7 @@
 - A passionate Self-taught  developer
 - Backend developer Java (Sring Boot) and Php (Laravel)
 - I am interested in improving software and creating new and innovative ones using powerful technologies.
--La vida es un juego y tiene reglas simplemente debes conocerlas y usarlas a tu favor, es la ley natural, si no las obedeces lo lamentaras para siempre (mi filosofía)
+-Life is a game and it has rules, you simply have to know them and use them to your advantage, it is the natural law, if you do not obey them you will regret it forever (my philosophy)
 
 <br><br>
 
