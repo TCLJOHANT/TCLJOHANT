@@ -15,13 +15,9 @@
 <br>
 
 - A passionate Self-taught  developer
-- Backend developer Java (Sring Boot) and php (Laravel)
-- Life is a game and has rules, likewise software development if they are not followed the game ends.(my philosophy )
-- 
--
--
--
--
+- Backend developer Java (Sring Boot) and Php (Laravel)
+- I am interested in improving software and creating new and innovative ones using powerful technologies.
+-La vida es un juego y tiene reglas simplemente debes conocerlas y usarlas a tu favor, es la ley natural, si no las obedeces lo lamentaras para siempre (mi filosofía)
 
 <br><br>
 
