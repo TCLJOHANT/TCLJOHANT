@@ -33,9 +33,10 @@
 <div align="center">  
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="50"/> </a>
  <a href="https://angular.io" target="_blank"> <img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="50"/></a> 
+	<!--
 <a href="https://reactjs.org/" target="_blank">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="50"/>
-</a>
+</a> -->
 <a href="https://tailwindcss.com/" target="_blank">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/>
 </a>
@@ -53,9 +54,10 @@
 <div align="center">  
 <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+	<!--
 <a href="https://www.djangoproject.com/" target="_blank">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" height="50"/>
-</a>
+</a> -->
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img style="margin: 10px" src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt="spring-boot" height="50"/>
